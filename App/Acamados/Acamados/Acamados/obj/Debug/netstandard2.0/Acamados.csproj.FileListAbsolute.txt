@@ -1,0 +1,12 @@
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\bin\Debug\netstandard2.0\Acamados.deps.json
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\bin\Debug\netstandard2.0\Acamados.dll
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\obj\Debug\netstandard2.0\Acamados.csprojAssemblyReference.cache
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\obj\Debug\netstandard2.0\Acamados.csproj.CoreCompileInputs.cache
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\obj\Debug\netstandard2.0\Acamados.AssemblyInfoInputs.cache
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\obj\Debug\netstandard2.0\Acamados.AssemblyInfo.cs
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\bin\Debug\netstandard2.0\Acamados.pdb
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\obj\Debug\netstandard2.0\Acamados.dll
+D:\Users\20171ENEL0365\Desktop\Acamados\App\Acamados\Acamados\Acamados\obj\Debug\netstandard2.0\Acamados.pdb
